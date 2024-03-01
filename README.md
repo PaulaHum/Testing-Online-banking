@@ -5,6 +5,7 @@ This repository presents the project of testing an online banking website. Since
 
 In order to standardize the documentation, most items were prepared in issue tracking system - **Jira**✨. 
 For your convenience, these can be exported in both, **.csv** and **.pdf** format. Choose what suits 🫵 you best.
+
 This project has been created for training⛹️‍♀️ purposes and as a representation of acquired knowledge💡.
 
 📝 In this repository can be found the following:
