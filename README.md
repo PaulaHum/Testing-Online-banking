@@ -11,7 +11,7 @@ This project has been created for training⛹️‍♀️ purposes and as a repr
 📝 In this repository can be found the following:
 
 * Test Plan
-* Epic,UserStory,Tests - in both csv. and pdf. formats
+* Epic, UserStory, Tests - in both csv. and pdf. formats
 * Exaples of possible bugs - in both csv. and pdf. formats
 
 🔗 Links:
