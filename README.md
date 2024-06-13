@@ -21,7 +21,7 @@ This project has been created for training⛹️‍♀️ purposes and as a repr
 Project is based on https://www.hsbc.co.uk/ 
 
 ## Side notes 📒
- - all bugs reported within this project are purely fictional. The HSBC UK website seems to be tested with flying colors!🎨
+ - all bugs reported in this project are purely fictional. The HSBC UK website seems to be tested with flying colors!🎨
  - Paula Siembora and Paula Humeniuk are the same person💫
 Siembora is my maiden name. Apologies for confusion!💐
 
