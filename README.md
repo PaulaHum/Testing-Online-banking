@@ -25,4 +25,6 @@ Project is based on https://www.hsbc.co.uk/
  - Paula Siembora and Paula Humeniuk are the same person💫
 Siembora is my maiden name. Apologies for confusion!💐
 
-📆Created on 23 Feb 2024 👷🏼‍♀️ Author Paula Humeniuk
+![Gif Banner](https://github.com/user-attachments/assets/520b6516-904d-42c3-a88c-322c14e8cda3)
+
+
