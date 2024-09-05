@@ -23,8 +23,6 @@ Project is based on https://www.hsbc.co.uk/
 ## Side notes 📒
  - all bugs reported in this project are purely fictional. The HSBC UK website seems to be tested with flying colors!🎨
  - Paula Siembora and Paula Humeniuk are the same person💫
-Siembora is my maiden name. Apologies for confusion!💐
+Siembora is my maiden name 😉
 
-![Gif Banner](https://github.com/user-attachments/assets/520b6516-904d-42c3-a88c-322c14e8cda3)
-
-
+![Gif Banner](https://github.com/user-attachments/assets/7625a534-b00d-4abe-bd75-d0423a734067)
